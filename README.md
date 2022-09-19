@@ -13,17 +13,16 @@ This public repo has content for the Fall 2022 iteration of `QSS20: Modern Stati
     - Recoding variables using `np.select`
     - Recoding variables using `map` and dictionary
 
-- [01_example_plotting.ipynb](https://github.com/jhaber-zz/QSS20_public/blob/main/activities/01_example_plotting.ipynb)
+- [01_functions_blank.ipynb](https://github.com/jhaber-zz/QSS20_public/blob/main/activities/01_functions_blank.ipynb)
+  - **Data**: DC crime reports in 2020
+  - **Concepts covered**:
+    - user-defined function to find matches within a broader pool of data
+    - using list comprehension to apply a function iteratively over list elements
+    
+- [02_plottingexamples_plotnine.ipynb](https://github.com/jhaber-zz/QSS20_public/blob/main/activities/02_plottingexamples_plotnine.ipynb)
   - **Data**: DC crime reports in 2020
   - **Concepts covered**:
     - Plotting using the `plotnine` wrapper for R's `ggplot2`
     - Types of plots covered: line graph; bar chart; facetted line; line grouped/colored by attribute
-
-- [02_loopsfunctions.ipynb](https://github.com/jhaber-zz/QSS20_public/blob/main/activities/02_loopsfunctions.ipynb)
-  - **Data**: DC crime reports in 2020
-  - **Concepts covered**:
-    - `for loop` to find matches within a broader pool of data
-    - user-defined function to find matches within a broader pool of data
-    - using list comprehension to apply a function iteratively over list elements 
 
 (more to come throughout the quarter)
