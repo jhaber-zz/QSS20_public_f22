@@ -1,0 +1,6 @@
+practice_database:
+  user: "qss20"
+  password: "pZqJ8TEwdinXQOk3"
+  port: 3306
+  database: "rjohnson"
+  host: "rc-db.dartmouth.edu"
